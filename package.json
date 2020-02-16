@@ -1,6 +1,6 @@
 {
   "name": "tichon-scripts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JS init scripts",
   "main": "index.js",
   "scripts": {
